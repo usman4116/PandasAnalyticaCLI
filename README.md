@@ -24,7 +24,7 @@ Built with **Pandas** and **object-oriented programming**, it’s beginner-frien
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/PandasAnalyticaCLI.git
+   git clone https://github.com/usman4116/PandasAnalyticaCLI.git
    ```
 2. Install the required dependencies:
 
